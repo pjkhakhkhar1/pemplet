@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAEE,qBAFmB,CAEnB,qBAAqB,CAAC;EACpB,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,MAAM;CAKnB;;AATH,AAKI,qBALiB,CAEnB,qBAAqB,CAGnB,CAAC,CAAC;EACA,KAAK,EAAE,IAAI;EACX,SAAS,EAAE,IAAI;CAChB",
+    "sources": [
+        "../src/sass/font-awesome.scss"
+    ],
+    "names": [],
+    "file": "font-awesome.css"
+}

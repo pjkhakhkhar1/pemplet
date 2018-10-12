@@ -1,0 +1,18 @@
+
+main {
+    .container {
+        min-height: 500px;
+
+        .hd-title {
+            width: 100%;
+            h3 {
+                width: 100%;
+                font-size: 35px;
+                padding: 25px 0px;
+            }
+            p{
+                text-transform: uppercase;
+            }
+        }
+    }
+}

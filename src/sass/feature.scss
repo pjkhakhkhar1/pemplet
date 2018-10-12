@@ -1,0 +1,52 @@
+.feature{
+    margin-top: 100px;
+    padding-bottom: 100px;
+    background:#FDFDFD;
+
+    .feature-title{
+        h2{
+            font-size: 50px;
+            text-transform: uppercase;
+            color: $secondary-color;
+            padding-top: 47px;
+
+        }
+        
+    }
+    .feature-icon{
+        padding-top:98px;
+        .f-icon{
+            margin-bottom: 26px;
+        }
+        
+    }
+    .feature-content{
+        h3{
+            margin-bottom:24px;
+            text-align: center;
+            font-family: $font-family-base;
+            font-size: 26px;
+            color: #444446;
+            text-transform: capitalize;
+
+            // only 768
+            @include media-breakpoint-only(md){
+                font-size: 22px;
+            }
+        }
+
+        p{
+            color:#6D6D6E;
+            font-size: 15px;
+            text-align: center;
+            padding: 0px 15px;
+
+              // only 768
+              @include media-breakpoint-only(md){
+                font-size: 13px;
+            }
+        }
+    }
+
+   
+}

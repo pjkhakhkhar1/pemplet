@@ -1,0 +1,18 @@
+main .container {
+  min-height: 500px;
+}
+
+main .container .hd-title {
+  width: 100%;
+}
+
+main .container .hd-title h3 {
+  width: 100%;
+  font-size: 35px;
+  padding: 25px 0px;
+}
+
+main .container .hd-title p {
+  text-transform: uppercase;
+}
+/*# sourceMappingURL=common.css.map */

@@ -1,0 +1,37 @@
+footer{
+    padding-top: 110px;
+    padding-bottom: 110px;
+
+    //320 to 576
+    @include media-breakpoint-between(xs,sm){
+        text-align: center;
+    }
+
+    .footer-block{
+        padding:0px;
+        margin:0px;
+        .footer-item{
+            padding-bottom: 21px;
+            margin:0px;
+        }
+        .footer-link{
+            font-size: 18px;
+        }
+        
+        li{
+            list-style: none;
+            padding-bottom: 15px;
+            margin:0px;
+            a{
+                color: #2E2E30;
+                font-size: 16px;
+                text-decoration: none;
+            }
+        }
+    }
+
+    p{
+        text-align: center;
+        padding-top: 70px;
+    }
+}

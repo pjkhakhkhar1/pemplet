@@ -1,0 +1,76 @@
+header{
+   #navigation{
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+   }
+
+    .navbar{
+        padding:0.8rem 1rem;
+    }
+    //576 to 767
+    @include media-breakpoint-between(xs, md){
+        .navbar-toggler{
+            border:1px solid $secondary-color;
+            border-radius: 2px;
+            .navbar-toggler-icon{
+                background: url(../img/bar-icon.svg);
+            }
+        }
+    }
+
+
+
+    .navbar{        
+       
+        .navbar-nav{           
+            //320px to 576
+            @include media-breakpoint-between(xs,sm){
+                margin-top: 20px;
+            }
+            .nav-item{
+                padding: 0 15px;
+
+                //320px to 576
+                @include media-breakpoint-between(xs,sm){
+                    text-align: center;
+                }
+                .nav-link{
+                    text-transform: uppercase;
+                    font-size: 13px;
+                    font-family: $font-family-base;
+                    color:$secondary-color;
+                    
+                }
+                // &.active{ 
+                //     .nav-link{
+                //         color:$primary-color;
+                        
+                //     }
+                // }
+                // &:hover{
+                //     .nav-link{
+                //         color: $primary-color;
+                //     }
+                // }
+                // &:focus{
+                //     .nav-item{
+                //         color: $primary-color;
+                //     }
+                // }
+            }
+        }
+      }
+    }
+
+    
+    .navbar-nav .active>.nav-link, .navbar-nav .nav-link.active, .navbar-nav .nav-link.show, .navbar-nav .show>.nav-link{
+        color:$primary-color !important;
+    }
+    
+    .shrink{
+        box-shadow: 0 0 30px rgba($color: #000000, $alpha: 0.5);
+        
+
+    }

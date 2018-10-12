@@ -1,0 +1,36 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+
+
+// @import "cover";
+
+ @import "include/header.scss";
+ @import "include/footer.scss";
+
+@import "header.scss";
+
+@import "common.scss";
+
+@import "index";
+@import "font-awesome";
+@import "about";
+@import "feature";
+@import "count";
+@import "team";
+@import "datatable";
+@import "contact-us";
+@import "card";
+
+
+
+
+
+
+

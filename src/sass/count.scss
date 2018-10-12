@@ -1,0 +1,39 @@
+.count{
+    padding:$base-padding;
+    padding-bottom: 100px;
+
+    .info-box{
+        border:2px solid $primary-color;
+        // 320 to 576
+        @include media-breakpoint-between(xs,sm){
+            margin-bottom: 20px;
+        }
+        
+    }
+    h3{
+        font-size: 80px;
+        text-align: center;
+        color: $primary-color;
+        padding: 50px 0px 0px;
+        margin-bottom: 0;
+
+        // 768 only
+
+        @include media-breakpoint-only(md){
+            font-size: 50px;
+        }
+    }
+    h6{
+        text-align: center;
+        color: #444446;
+        font-size: 22px;
+        padding:0px 0px 32px 0px;
+        font-family: $font-family-base;
+        margin: 0px;
+
+        // 768 only
+        @include media-breakpoint-only(md){
+            font-size: 18px;
+        }
+    }
+}

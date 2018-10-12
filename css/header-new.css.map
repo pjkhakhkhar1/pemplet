@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../src/sass/header-new.scss"
+    ],
+    "names": [],
+    "file": "header-new.css"
+}

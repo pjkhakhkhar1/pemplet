@@ -1,0 +1,35 @@
+.about{
+    padding:$base-padding;
+
+    .abt-img{
+        //320 to 576
+        @include media-breakpoint-between(xs,sm){
+            text-align: center;
+            padding-bottom: 40px;
+        }
+    }
+
+
+    .abt-content{
+        h2{
+            color: $secondary-color;                        
+            font-size: 50px;
+            font-family: 'Josefin Sans', sans-serif;
+            text-transform: uppercase; 
+            letter-spacing: 1.16px;
+            //320 to 576
+            @include media-breakpoint-between(xs,sm){
+                text-align: center;
+            }
+
+
+        }
+        p{
+            font-size: 16px;
+            color: #444446;
+            font-weight: 100;
+
+        }
+    }
+
+}

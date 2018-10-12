@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="53px" viewBox="0 0 60 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>pen-letter</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.9">
+        <g id="Homepage" transform="translate(-300.000000, -1677.000000)" fill="#F95454" fill-rule="nonzero">
+            <g id="Features" transform="translate(0.000000, 1166.000000)">
+                <g id="Content-4" transform="translate(169.000000, 511.000000)">
+                    <g id="pen-letter" transform="translate(131.000000, 0.000000)">
+                        <g id="pen-letter-pen-letter">
+                            <g>
+                                <path d="M47.4585068,0 L20.0914876,0 L20.0914876,52.0628261 L59.3894542,52.0628261 L59.3894542,11.9227791 L47.4585068,0 Z M48.1852515,4.23103408 L55.1550038,11.1979318 L48.1852515,11.1979318 L48.1852515,4.23103408 Z M56.9088861,49.5829201 L22.5747548,49.5829201 L22.5747548,2.47858402 L45.7019255,2.47858402 L45.7019255,13.6765511 L56.9088802,13.6765511 L56.9088802,49.5829201 L56.9088861,49.5829201 Z" id="Shape"></path>
+                                <rect id="Rectangle-path" x="28.5362153" y="10.396745" width="11.2042557" height="2.47996475"></rect>
+                                <rect id="Rectangle-path" x="28.5362153" y="18.3926204" width="22.4112103" height="2.48128672"></rect>
+                                <rect id="Rectangle-path" x="28.5362153" y="26.3884724" width="22.4112103" height="2.48128085"></rect>
+                                <rect id="Rectangle-path" x="28.5362153" y="34.3896886" width="22.4112103" height="2.4773208"></rect>
+                                <rect id="Rectangle-path" x="28.5362153" y="42.385564" width="22.4112103" height="2.47858402"></rect>
+                                <path d="M4.96120096,6.87176851 L0,6.87176851 L0,17.4092009 L2.34381951,17.4092009 L2.34381951,9.2123913 L4.96120096,9.2123913 L4.96120096,43.651651 L9.20635915,52.1338602 L13.4488477,43.651651 L13.4488477,1.51929495 L4.96120096,1.51929495 L4.96120096,6.87176851 Z M7.30501459,3.86126322 L11.1077037,3.86126322 L11.1077037,6.87176851 L7.30501459,6.87176851 L7.30501459,3.86126322 L7.30501459,3.86126322 Z M7.30501459,9.2123913 L11.1077037,9.2123913 L11.1077037,43.0996827 L9.20635915,46.8993243 L7.30501459,43.0996827 L7.30501459,9.2123913 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

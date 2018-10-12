@@ -1,0 +1,26 @@
+#lms-page-contacus .map {
+  width: 100%;
+}
+
+#lms-page-contacus .contact-form {
+  width: 100%;
+}
+
+#lms-page-contacus form label {
+  display: inline-block;
+  width: 100px;
+}
+
+#lms-page-contacus form div {
+  margin-bottom: 10px;
+}
+
+#lms-page-contacus .error {
+  color: red;
+  margin-left: 5px;
+}
+
+#lms-page-contacus label.error {
+  display: inline;
+}
+/*# sourceMappingURL=contact-us.css.map */
